@@ -76,6 +76,7 @@ ul{
   color: #FFFFFF;
 }
 .hero-button{
+  cursor: pointer;
   font-family: inherit;
   font-style: normal;
   font-weight: 700;
@@ -193,6 +194,7 @@ color: rgba(255, 255, 255, 0.6);
   color: var(--first-bg-color);
 }
 .menu-btn{
+  cursor: pointer;
   font-family: 'Roboto';
   font-weight: 500;
   font-size: 16px;
